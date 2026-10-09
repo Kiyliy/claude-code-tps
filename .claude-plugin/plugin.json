@@ -1,0 +1,5 @@
+{
+  "name": "⚡",
+  "version": "0.4.0",
+  "description": "Status line showing the model's output speed (tokens/sec), TTFT, total time and session average"
+}
